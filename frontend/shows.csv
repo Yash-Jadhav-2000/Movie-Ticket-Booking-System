@@ -1,5 +1,0 @@
-"id,movie_id,hall_id,date,time,class,available_seats"
-"1,1,1,2024-04-24,10:00,Regular,100"
-"2,1,1,2024-04-24,13:00,Regular,100"
-"3,2,2,2024-04-25,11:00,Regular,150"
-"4,2,2,2024-04-25,14:00,Regular,150"
