@@ -6,13 +6,13 @@ def load_data(file_path):
     return pd.read_csv(file_path)
 
 # Load cinema halls data
-cinema_halls_df = load_data('/content/cinema_halls.csv')
+cinema_halls_df = load_data('cinema_halls.csv')
 
 # Load movies data 
-movies_df = load_data('/content/movies.csv')
+movies_df = load_data('movies.csv')
 
 # Load shows data
-shows_df = load_data('/content/shows.csv')
+shows_df = load_data('shows.csv')
 
 # Display sample data
 print("Cinema Halls Data:")
