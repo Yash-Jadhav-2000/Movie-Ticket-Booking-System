@@ -1,0 +1,3 @@
+"id,name,type,screens,capacity_per_screen,rate_per_screen,facilities,location_map"
+"1,Example Multiplex,Multiplex,3,100,10,3D,https://example.com/map"
+"2,Sample Cinemas,Single Screen,1,200,8,Regular,https://sample.com/map"
