@@ -1,0 +1,11 @@
+Film,Genre,Lead Studio,Audience score %,Profitability,Rotten Tomatoes %,Worldwide Gross,Year,Seats Available
+Avatar,Action,Fox,82,9.0,83,2790,2009,"A1, A2, A3, A4, A5"
+The Dark Knight,Action,Warner Bros.,94,6.1,94,1005,2008,"A1, A2, A3, A4, A5"
+Inception,Action,Warner Bros.,91,3.7,86,825,2010,"A1, A2, A3, A4, A5"
+Titanic,Romance,Paramount,72,4.6,89,2187,1997,"A1, A2, A3, A4, A5"
+Jurassic Park,Action,Universal,91,6.9,92,1034,1993,"A1, A2, A3, A4, A5"
+The Avengers,Action,Disney,91,4.0,92,1519,2012,"A1, A2, A3, A4, A5"
+Harry Potter and the Deathly Hallows Part 2,Adventure,Warner Bros.,92,12.1,96,1341,2011,"A1, A2, A3, A4, A5"
+Finding Nemo,Animation,Disney,86,16.7,99,936,2003,"A1, A2, A3, A4, A5"
+The Lion King,Animation,Disney,93,4.0,93,968,1994,"A1, A2, A3, A4, A5"
+Forrest Gump,Drama,Paramount,95,10.2,72,678,1994,"A1, A2, A3, A4, A5"
